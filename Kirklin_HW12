@@ -1,0 +1,22 @@
+Project Name: HW12
+Author: Aleah Kirklin
+Date: 04/02/19
+
+1) <style type="text/css">
+      body	{	text-decoration: none;
+              background-color: white;
+              color: black;
+              font-family: Arial, Helvetica, sans-serif;
+              }
+.new {	font-weight: bold;
+        font-style: italic;
+        }
+</style>
+
+2) body	{	background-color: #FFF8DC;
+          color: #000099;
+          font-family: Arial, Helvetica, sans-serif;
+          }
+#new {	font-weight: bold;
+        font-style: italic;
+      } 
