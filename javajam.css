@@ -1,20 +1,31 @@
 /*
-Project Name: JavaJam Coffee (HW9)
+Project Name: JavaJam Coffee (HW14)
 Author: Aleah Kirklin
 Date: 04/03/19
 */
 
 /* Set the body, background, text, color, and font style */
-body {  background-color: #FFFFCC;
-        color: #330000;
+body {  background-color: #FCEBB6;
+        color: #221811;
         font-family: Verdana, Arial, sans-serif;
         }
 
 /* Set the header background, text color, and make it centered */
-header { background-color: #CCAA66;
-         color: #000000;"
-         text-align: center:
+header { background-color: #D2B48C;
+         text-align: center;
          }
 
 /* Make h1 take up more vertical space */
 h1 {line-height: 200%; }
+
+nav { font-weight: bold;
+      text-align: center; }
+
+#wrapper { margin-left: auto;
+           margin-right: auto;
+           width: 80%; }
+
+footer { background-color: #D2B48C;
+         font-size: .60em;
+         font-style: italic;
+         text-align: center;}
