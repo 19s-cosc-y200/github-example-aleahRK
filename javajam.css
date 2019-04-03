@@ -1,0 +1,20 @@
+/*
+Project Name: JavaJam Coffee (HW9)
+Author: Aleah Kirklin
+Date: 04/03/19
+*/
+
+/* Set the body, background, text, color, and font style */
+body {  background-color: #FFFFCC;
+        color: #330000;
+        font-family: Verdana, Arial, sans-serif;
+        }
+
+/* Set the header background, text color, and make it centered */
+header { background-color: #CCAA66;
+         color: #000000;"
+         text-align: center:
+         }
+
+/* Make h1 take up more vertical space */
+h1 {line-height: 200%; }
