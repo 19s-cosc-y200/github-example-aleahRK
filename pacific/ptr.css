@@ -1,42 +1,40 @@
 /*
-Project Name: Pacific Trails Resorts (HW10)
+Project Name: Pacific Trails Resorts (HW15)
 Author: Aleah Kirklin
 Date: 04/03/19
 */
 
 /* Set the body, background, text, color, and font style */
-body {  background-color: #F5F5F5;
-        color: #008080;
+body {  background-color: #FFFFFF;
+        color: #666666;
         font-family: Verdana, Arial, sans-serif;
         }
 
 /* Set the header background, text color, and make it centered */
-header { background-color: #008080;
-         color: #F5F5F5;"
-         text-align: center:
+header { background-color: #000033;
+         color: #FFFFFF;"
+         font-family: Georgia, sans-serif;
          }
 
 /* Make h1 take up more vertical space */
-h1 { background-color: #008080;
-     color: #F5F5F5;
-     line-height: 200%;
-     font-family: Verdana, Arial, sans-serif;
-     text-indent: 1em;
-     text-shadow: 3px 3px 5px #CCCCCC;}
-
-h2 { background-color: #008080;
-     color: #F5F5F5;
-     font-family: Verdana, Arial, sans-serif;
-     text-align: center; }
-
-h3 { background-color: #008080;
-     color: #F5F5F5;
-     font-family: Verdana, Arial, sans-serif;
-     text-align: center; }
+h1 { line-height: 200%; }
 
 nav { font-weight: bold;
-     font-size: 1.25 em;
-     word spacing: 1em; }
+      background-color: #90C7E3; }
 
-p { font-size: .90em;
-    text-indent: 3em; }
+h2 { color: #3399CC;
+     font-family: Georgia, sans-serif; }
+
+dt { color: #000033;
+     font-weight: bold; }
+
+.resort { color: #000033;
+         font-size: 1.2em; }
+
+#wrapper { margin-left: auto;
+           margin-right: auto;
+           width: 80%; }
+
+footer { font-size: .70em;
+         font-style: italic;
+         text-align: center; }
