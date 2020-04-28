@@ -1,0 +1,67 @@
+/*
+Project Name: Custom Website (HW16)
+Author: Aleah Kirklin
+Date Last Modified: 04/04/19
+*/
+
+/* Set the body background, text color, background image + repeat and font style */
+body { background-color: # #cc6666;
+       background-image: url(white-waves.gif);
+       background-repeat: repeat;
+       color: ##cc6666;
+       font-family: Verdana, Arial, sans-serif;
+}
+
+/* Set the header background, text color, and make it centered */
+header { background-color: ##cc9999;
+         background-image: url(customlogo.png);
+         background-repeat: no-repeat;
+         color: #cc6666;
+         height: 150px;
+         text-align: center;}
+
+/* Make nav with no underlines */
+nav { background-color: ##cc3366;
+      color: #cc6666;
+      padding: 5px 5px 5px 5px;
+      font-weight: bold;
+      text-align: center;}
+
+nav a { text-decoration: none;}
+
+/* Make main sort of centered but like not really */
+main { padding-left: 2em;
+       padding-right: 2em; }
+
+/* Make h1 2em to left and height at 72 px */
+h1 { padding-left: 2em;
+     height: 72px;
+     font-family: Verdana, Arial, sans-serif; }
+
+/* Set h2 color and text shadow */
+h2 { color: #cc6666;
+     font-family: Verdana, Arial, sans-serif;
+     text-shadow: 1px 1px 1px #ccc; }
+
+h3 { font-family: Verdana, Arial, sans-serif;
+     color: #cc6666; }
+
+/* img is equal on both sides */
+img { padding-left: 10px;
+      padding-right: 10px; }
+
+
+#wrapper { margin-left: auto;
+           margin-right: auto;
+     		   width: 80%;
+     		   min-width: 700px;
+           max-width: 1024px;
+     		   background-color: #FFFFFF;
+     		   box-shadow: 5px 5px 5px #000033; }
+
+
+/* Footer becomes italic without use of <i> and sizes down to be separate from other text */
+footer { padding: 20px;
+         font-size: 75%;
+	       font-style: italic;
+	       font-family: Verdana, Arial, sans-serif; }
